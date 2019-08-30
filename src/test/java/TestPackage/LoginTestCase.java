@@ -16,4 +16,9 @@ public class LoginTestCase extends TestBase{
   public void logintest() {
 	  initialization();
   }
+  
+  @Test
+  public void office(){
+	  system.out.println("Office Code")
+}
 }
