@@ -21,4 +21,9 @@ public class LoginTestCase extends TestBase{
   public void office(){
 	  system.out.println("Office Code")
 }
+
+@Test
+  public void Home(){
+	  system.out.println("Home Code")
+}
 }
